@@ -14,4 +14,3 @@ Convert between different file formats.
 - FastAPI
 
 ## License
-MIT
