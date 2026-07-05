@@ -6,11 +6,9 @@ Convert between different file formats.
 - Video conversion
 - Batch processing
 - Cloud storage
-
 ## Tech Stack
 - Python
 - FFmpeg
 - Pillow
 - FastAPI
-
 ## License
