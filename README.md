@@ -7,7 +7,6 @@ Convert between different file formats.
 - Batch processing
 - Cloud storage
 ## Tech Stack
-- Python
 - FFmpeg
 - Pillow
 - FastAPI
