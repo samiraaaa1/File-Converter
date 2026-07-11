@@ -1,6 +1,6 @@
 # File Converter
 Convert between different file formats.
-## Features
+## 
 - Image conversion
 - Document conversion
 - Video conversion
