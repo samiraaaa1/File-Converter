@@ -8,6 +8,5 @@ Convert between different file formats.
 - Cloud storage
 ## Tech Stack
 - FFmpeg
-- 
 - FastAPI
 ## License
